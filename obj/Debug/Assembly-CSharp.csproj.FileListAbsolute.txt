@@ -1,0 +1,720 @@
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Microsoft.Win32.Primitives.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/mscorlib.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/netstandard.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/nunit.framework.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.AppContext.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Collections.Concurrent.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Collections.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Collections.NonGeneric.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Collections.Specialized.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.ComponentModel.Composition.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.ComponentModel.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.ComponentModel.Primitives.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.ComponentModel.TypeConverter.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Console.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Core.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Data.Common.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Data.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Diagnostics.Contracts.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Diagnostics.Debug.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Diagnostics.FileVersionInfo.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Diagnostics.Process.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Diagnostics.StackTrace.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Diagnostics.TextWriterTraceListener.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Diagnostics.Tools.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Diagnostics.TraceSource.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Diagnostics.Tracing.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Drawing.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Drawing.Primitives.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Dynamic.Runtime.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Globalization.Calendars.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Globalization.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Globalization.Extensions.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.IO.Compression.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.IO.Compression.FileSystem.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.IO.Compression.ZipFile.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.IO.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.IO.FileSystem.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.IO.FileSystem.DriveInfo.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.IO.FileSystem.Primitives.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.IO.FileSystem.Watcher.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.IO.IsolatedStorage.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.IO.MemoryMappedFiles.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.IO.Pipes.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.IO.UnmanagedMemoryStream.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Linq.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Linq.Expressions.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Linq.Parallel.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Linq.Queryable.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Net.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Net.Http.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Net.NameResolution.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Net.NetworkInformation.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Net.Ping.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Net.Primitives.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Net.Requests.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Net.Security.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Net.Sockets.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Net.WebHeaderCollection.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Net.WebSockets.Client.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Net.WebSockets.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Numerics.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Numerics.Vectors.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.ObjectModel.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Reflection.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Reflection.Extensions.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Reflection.Primitives.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Resources.Reader.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Resources.ResourceManager.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Resources.Writer.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Runtime.CompilerServices.VisualC.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Runtime.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Runtime.Extensions.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Runtime.Handles.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Runtime.InteropServices.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Runtime.InteropServices.WindowsRuntime.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Runtime.Numerics.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Runtime.Serialization.Formatters.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Runtime.Serialization.Json.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Runtime.Serialization.Primitives.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Runtime.Serialization.Xml.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Security.Claims.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Security.Cryptography.Csp.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Security.Cryptography.Encoding.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Security.Cryptography.Primitives.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Security.Principal.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Security.SecureString.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.ServiceModel.Web.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Text.Encoding.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Text.Encoding.Extensions.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Text.RegularExpressions.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Threading.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Threading.Overlapped.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Threading.Tasks.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Threading.Tasks.Parallel.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Threading.Thread.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Threading.ThreadPool.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Threading.Timer.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Transactions.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.ValueTuple.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Web.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Windows.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Xml.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Xml.ReaderWriter.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Xml.Serialization.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Xml.XDocument.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Xml.XmlDocument.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Xml.XmlSerializer.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Xml.XPath.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/System.Xml.XPath.XDocument.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.Analytics.DataPrivacy.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.Analytics.Editor.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.Analytics.StandardEvents.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.Analytics.Tracker.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.CollabProxy.Editor.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.Locator.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEditor.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TextCoreModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.VFXModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.Cecil.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Assembly-CSharp-firstpass.pdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEditor.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.TextMeshPro.Editor.pdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.PackageManagerUI.Editor.pdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.CollabProxy.Editor.pdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.TextMeshPro.pdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.Analytics.DataPrivacy.pdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TextCoreModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TextCoreModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.VFXModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.VFXModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TestRunner.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.TestRunner.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/nunit.framework.pdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/nunit.framework.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.Analytics.Tracker.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.Analytics.Editor.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.Analytics.StandardEvents.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/Rohan/TransferCS/comp50/Seize the Seas/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/Rohan/TransferCS/comp50/Seize the Seas/obj/Debug/Assembly-CSharp.csproj.CopyComplete
+/Users/Rohan/TransferCS/comp50/Seize the Seas/obj/Debug/Assembly-CSharp.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas/obj/Debug/Assembly-CSharp.pdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Microsoft.Win32.Primitives.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/mscorlib.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/netstandard.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/nunit.framework.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.AppContext.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Collections.Concurrent.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Collections.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Collections.NonGeneric.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Collections.Specialized.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.ComponentModel.Composition.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.ComponentModel.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.ComponentModel.Primitives.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.ComponentModel.TypeConverter.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Console.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Core.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Data.Common.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Data.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Diagnostics.Contracts.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Diagnostics.Debug.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Diagnostics.FileVersionInfo.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Diagnostics.Process.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Diagnostics.StackTrace.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Diagnostics.TextWriterTraceListener.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Diagnostics.Tools.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Diagnostics.TraceSource.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Diagnostics.Tracing.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Drawing.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Drawing.Primitives.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Dynamic.Runtime.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Globalization.Calendars.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Globalization.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Globalization.Extensions.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.IO.Compression.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.IO.Compression.FileSystem.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.IO.Compression.ZipFile.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.IO.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.IO.FileSystem.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.IO.FileSystem.DriveInfo.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.IO.FileSystem.Primitives.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.IO.FileSystem.Watcher.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.IO.IsolatedStorage.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.IO.MemoryMappedFiles.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.IO.Pipes.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.IO.UnmanagedMemoryStream.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Linq.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Linq.Expressions.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Linq.Parallel.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Linq.Queryable.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Net.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Net.Http.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Net.NameResolution.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Net.NetworkInformation.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Net.Ping.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Net.Primitives.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Net.Requests.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Net.Security.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Net.Sockets.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Net.WebHeaderCollection.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Net.WebSockets.Client.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Net.WebSockets.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Numerics.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Numerics.Vectors.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.ObjectModel.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Reflection.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Reflection.Extensions.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Reflection.Primitives.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Resources.Reader.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Resources.ResourceManager.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Resources.Writer.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Runtime.CompilerServices.VisualC.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Runtime.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Runtime.Extensions.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Runtime.Handles.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Runtime.InteropServices.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Runtime.InteropServices.WindowsRuntime.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Runtime.Numerics.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Runtime.Serialization.Formatters.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Runtime.Serialization.Json.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Runtime.Serialization.Primitives.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Runtime.Serialization.Xml.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Security.Claims.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Security.Cryptography.Csp.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Security.Cryptography.Encoding.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Security.Cryptography.Primitives.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Security.Principal.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Security.SecureString.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.ServiceModel.Web.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Text.Encoding.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Text.Encoding.Extensions.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Text.RegularExpressions.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Threading.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Threading.Overlapped.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Threading.Tasks.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Threading.Tasks.Parallel.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Threading.Thread.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Threading.ThreadPool.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Threading.Timer.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Transactions.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.ValueTuple.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Web.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Windows.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Xml.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Xml.ReaderWriter.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Xml.Serialization.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Xml.XDocument.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Xml.XmlDocument.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Xml.XmlSerializer.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Xml.XPath.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/System.Xml.XPath.XDocument.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.Analytics.DataPrivacy.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.Analytics.Editor.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.Analytics.StandardEvents.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.Analytics.Tracker.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.CollabProxy.Editor.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.Locator.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEditor.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TextCoreModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.VFXModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.Cecil.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Assembly-CSharp-firstpass.pdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEditor.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.TextMeshPro.Editor.pdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.PackageManagerUI.Editor.pdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.CollabProxy.Editor.pdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.TextMeshPro.pdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.Analytics.DataPrivacy.pdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TextCoreModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TextCoreModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityTestProtocolModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.VFXModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.VFXModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TestRunner.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.TestRunner.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/nunit.framework.pdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/nunit.framework.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.Analytics.Tracker.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.Analytics.Editor.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.Analytics.StandardEvents.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/obj/Debug/Assembly-CSharp.csproj.CopyComplete
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/obj/Debug/Assembly-CSharp.dll
+/Users/Rohan/TransferCS/comp50/Seize the Seas Backup3/obj/Debug/Assembly-CSharp.pdb

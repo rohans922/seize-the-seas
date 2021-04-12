@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{CEB9FA33-A6A4-93FD-A4DB-442AAE770CD8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CanonMech.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CanonMech.cs" Line="97" Column="37" />
+      <File FileName="Assets/Scripts/PlayerOnTick.cs" Line="197" Column="10" />
+      <File FileName="Assets/Scripts/TrashMechanics.cs" Line="14" Column="27" />
+      <File FileName="Assets/Scripts/DetectObjects.cs" Line="40" Column="76" />
+      <File FileName="Assets/Scripts/TrashyT.cs" Line="48" Column="24" />
+      <File FileName="Assets/Scripts/CameraMech.cs" Line="39" Column="13" />
+      <File FileName="Assets/WallMech.cs" Line="41" Column="18" />
+      <File FileName="Assets/Scripts/UI.cs" Line="85" Column="34" />
+      <File FileName="Assets/MainMenu.cs" Line="38" Column="6" />
+      <File FileName="Assets/MainGame.cs" Line="98" Column="23" />
+      <File FileName="Assets/EndMenu.cs" Line="18" Column="1" />
+      <File FileName="Assets/stream.cs" Line="27" Column="10" />
+      <File FileName="Assets/Sounds.cs" Line="40" Column="24" />
+      <File FileName="Assets/Sound.cs" Line="11" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

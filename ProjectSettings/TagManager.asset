@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Detector
+  - Floater
+  - Trash
+  - TrashyT
+  - ToIsland
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Player1
+  - Model1-Idle
+  - Model1-Treading
+  - Player2
+  - Model-Idle
+  - Model-Treading
+  - WaterTop
+  - Islands
+  - Base
+  - WaterBottom
+  - Directional
+  - Light
+  - CanonMount1
+  - CanonMount2
+  - Walls
+  - Projectile
+  - Titles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

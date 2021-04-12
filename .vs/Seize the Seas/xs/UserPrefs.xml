@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{7537505C-62A4-5539-EBA4-1E9FD39B1BE1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TrashMechanics.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/Environment/Water (Basic)/Scripts/WaterBasic.cs" Line="22" Column="53" />
+      <File FileName="Assets/Scripts/CanonText.cs" Line="21" Column="98" />
+      <File FileName="Assets/Scripts/PlayerOnTick.cs" Line="335" Column="57" />
+      <File FileName="Assets/Scripts/CameraMech.cs" Line="44" Column="47" />
+      <File FileName="Assets/Scripts/CanonMech.cs" Line="28" Column="24" />
+      <File FileName="Assets/Scripts/UI.cs" Line="27" Column="6" />
+      <File FileName="Assets/Scripts/TrashMechanics.cs" Line="31" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
