@@ -6,4 +6,4 @@ The game is implemented using C# scripts and playable with X-Box Controllers (pr
 
 Seize the Seas consists of custom sound effects made in Logic Pro X, custom models made in Autodesk Maya, and a custom physics engine scripted into the game.
 
-The game is available to download and play for [Windows](https://drive.google.com/file/d/1E3jKm7mmV4Y9MhLLR-Z_AiJ7L9UGEq4A/view) and [Mac](https://drive.google.com/file/d/1eOktYFoGQd_UxnJNtd1bIY7p0279TIm0/view)
+The game is available to download and play for [Windows](https://drive.google.com/file/d/1E3jKm7mmV4Y9MhLLR-Z_AiJ7L9UGEq4A/view) and [Mac](https://drive.google.com/file/d/1eOktYFoGQd_UxnJNtd1bIY7p0279TIm0/view).
